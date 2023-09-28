@@ -11,4 +11,9 @@ Cinema adopta principios de DDD para organizar la lógica de negocio y la capa d
 3. Cambios en la entidad, hay que ejecutar el comando
 ...
 flutter pub run build_runner build
+
 ...
+# Presentación
+![Pagina Home](https://github.com/ZitelliDZ/cinema/blob/main/presentacion/1.png?raw=true)
+
+![Pagina Home](https://github.com/ZitelliDZ/cinema/blob/main/presentacion/2.png?raw=true)
